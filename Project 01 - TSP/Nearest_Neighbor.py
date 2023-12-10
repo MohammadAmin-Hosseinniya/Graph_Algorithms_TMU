@@ -51,7 +51,7 @@ def tsp_nearest_neighbor(filename):
 
 # Usage
 
-input_file = "NN_input_0.txt"
+input_file = "input2copy.txt"
 
 start_time = time.time()
 tour_order, tour_length = tsp_nearest_neighbor(input_file)

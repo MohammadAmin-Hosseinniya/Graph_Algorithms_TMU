@@ -44,7 +44,7 @@ def tsp_exhaustive_search(filename):
 
 # Usage
 
-input_file = "ES_input_0.txt"
+input_file = "input2copy.txt"
 
 start_time = time.time()
 tour_order, tour_length = tsp_exhaustive_search(input_file)
